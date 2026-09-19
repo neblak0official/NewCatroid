@@ -26,4 +26,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: my-app-release
-          path: catroid/build/outputs/apk/release/*.apk
+          path: catroid/build/outputs/apk/release/"neblak-necatroid-release.apk
